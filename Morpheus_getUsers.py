@@ -17,7 +17,7 @@ class Logger(object):
 
 sys.stdout = Logger()
 
-print ("Hello world, I'm back yet again!")
+print ("Hello world, I'm back!")
 
 url = "https://192.168.56.103/api/users"
 
